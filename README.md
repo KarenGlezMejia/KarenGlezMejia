@@ -14,33 +14,9 @@ Here are some ideas to get you started:
 -->
 # **Hello my name is Karen Gonzalez** 
     
-<style>
-    p {
-       background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);
-       color:black;
-       font-family:"Monaco";
-       font-style:italic;
-       font-size:18px
-    }
-    ul{
-       background: linear-gradient(90deg, rgba(245,223,232,1) 11%, rgba(242,222,233,1) 34%, rgba(148,187,233,1) 73%);
-     }
-     h1{
-         color:#e24b8d;
-         font-family:"Lucida Handwriting";
-        }
-     h2{
-          color:#4289dd;
-          font-family:"Lucida Handwriting";    
-     }
-     .gcp{
-         margin-left:10px;
-     }
-     
-</style>
 ## *About me:*
 
-<p style="color:Pink">I studied computer engineering, i enjoy learning new technologies
+<p style="color:green">I studied computer engineering, i enjoy learning new technologies
 and solve problems with them along
 with skills such as teamwork,
 assertive communication and
