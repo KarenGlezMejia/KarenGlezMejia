@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 </style>
 ## *About me:*
 
-<p class="me">I studied computer engineering, i enjoy learning new technologies
+<p style="font-family:Monaco">I studied computer engineering, i enjoy learning new technologies
 and solve problems with them along
 with skills such as teamwork,
 assertive communication and
