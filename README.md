@@ -28,7 +28,7 @@ web development.</p>
 <ul> 
     <li> 
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png" alt="Node.js" width="90" height="50" title="Node">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" alt="express" width="100" height="50" title="express">
+        <img src="https://e7.pngegg.com/pngimages/925/447/png-clipart-express-js-node-js-javascript-mongodb-node-js-text-trademark.png" alt="express" width="100" height="50" title="express">
     </li>
     <li>
         <img src = "https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png" alt="Java" width="100" height="90" title="Java">
